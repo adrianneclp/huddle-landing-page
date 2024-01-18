@@ -18,7 +18,7 @@ This is a solution to the [Huddle landing page with single introductory section 
 
 ### Screenshot
 
-![Screenshot](Screenshot.png)
+![Screenshot](./src/images/Screenshot.png)
 
 ### Links
 
